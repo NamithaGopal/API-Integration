@@ -82,5 +82,7 @@ The app also includes **input sanitation** and **alias mapping**. Input sanitati
 This README provides a complete overview of the project, including features, implementation details, challenges, and future enhancements, making it **professional and internship-ready**.
 
 
+##OUTPUT
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d0adc29a-7892-43e9-a3f3-7bd6f2393455" />
 
